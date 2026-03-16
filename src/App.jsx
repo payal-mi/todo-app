@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { FaEdit } from "react-icons/fa";
 import { MdDelete } from "react-icons/md";
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import { v4 as uuidv4 } from 'uuid';
 
 function App() {
